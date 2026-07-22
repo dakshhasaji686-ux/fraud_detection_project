@@ -216,8 +216,4 @@ CreditCardFraudDetection/
 
 **Daksh Hasaji**
 
-Machine Learning | Data Science | Python Developer
 
----
-
-## ⭐ If you found this project useful, consider giving it a star on GitHub!
