@@ -1,5 +1,8 @@
 # Credit Card Fraud Detection using Machine Learning
 
+# presentation of this project
+  https://drive.google.com/file/d/1XAQHq4tfqnuWvrlXAJdf5CZZePFFBhGF/view?usp=drive_link
+
 ## Project Overview
 
 This project detects fraudulent credit card transactions using supervised machine learning techniques. The dataset is highly imbalanced, so multiple imbalance handling strategies were evaluated.
